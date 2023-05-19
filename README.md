@@ -1,9 +1,9 @@
 # Mental-arithmetics-project
 for hackaton 2023
 
-##Tasks
+## Tasks
 
-###Core
+### Core
 - [x] language 'python'
 - [x] library 'tkinter'
 - [ ] desing
