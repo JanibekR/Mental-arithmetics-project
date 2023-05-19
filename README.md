@@ -4,7 +4,7 @@ for hackaton 2023
 ##Tasks
 
 ###Core
-- [ ] language
-- [ ] library
+- [x] language 'python'
+- [x] library 'tkinter'
 - [ ] desing
 - [ ] functionality
