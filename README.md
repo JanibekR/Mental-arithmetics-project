@@ -5,6 +5,6 @@ for hackaton 2023
 
 ###Core
 - [ ] language
-- [ ] platform
+- [ ] library
 - [ ] desing
 - [ ] functionality
